@@ -53,3 +53,9 @@ Your program must display the smallest assembled square on the standard output. 
 If the file contains at least one error, your program must display error on the stan- dard output followed by a newline and have to exit properly.
 
 ---------------------------------------------------------------------------------
+
+
+How it is work
+
+1. Compile my project (just type [make] at the root of repository)
+2. type [./fillit sample]. "sample" it is a file with my map. Instead sample you can create your own map with tetraminos. 
